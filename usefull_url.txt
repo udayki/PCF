@@ -1,0 +1,9 @@
+https://github.com/udayki/Demo.git
+
+git clone https://github.com/Pariweshntt/demo1.git
+
+git clone https://github.com/Pariweshntt/usermanagement.git
+
+https://projectlombok.org/download
+
+https://mvnrepository.com/artifact/org.projectlombok/lombok/1.18.8
